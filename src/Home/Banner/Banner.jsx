@@ -1,8 +1,10 @@
 import React from 'react'
 
-function Banner() {
+const Banner = () => {
   return (
-    <div>Banner</div>
+    <>
+    hi
+    </>
   )
 }
 
